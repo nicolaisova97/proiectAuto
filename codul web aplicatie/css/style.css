@@ -1,0 +1,31 @@
+body{
+    background-color: aliceblue;
+    /*margin-left: 10%;*/
+    /*margin-right: 10%;*/
+}
+
+section{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 6%;
+    text-align: center;
+}
+footer{
+
+    text-align: center;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+
+}
+header{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+h4{
+    float: left;
+}

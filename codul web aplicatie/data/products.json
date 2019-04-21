@@ -1,0 +1,194 @@
+{
+  "myH1": "Alege configurarile automobilului",
+  "chooseCar": "Alege modelul automobilului",
+  "chooseMotor": "Alege tipul motorului",
+  "chooseTransmission": "Alege tipul cutiei",
+  "chooseDrive": "Alege tipul tractiunii",
+  "chooseColor": "Alege culoarea automobilului",
+  "chooseInterior": "Alege tipul interiorului",
+  "chooseAudio": "Alege sistemul audio",
+  "chooseCondition": "Alege tipul de aer conditionat",
+  "chooseWindow": "Alege tipul de deschidere a parbrizelor",
+  "models": [
+    {
+      "id": 0 ,
+      "name": "...",
+      "MotorID":[1,2],
+      "transmissionID": [1,2],
+      "driveTypeID": [1,2],
+      "colorID": [1, 2, 3, 4, 5],
+      "interiorID": [1, 2],
+      "audioSystemID": [1, 2],
+      "airConditionID": [1, 2, 3],
+      "windowTypeID": [1, 2]
+    },
+    {
+      "id": 1,
+      "name": "BMW",
+      "MotorID":[1,2],
+      "transmissionID": [1,2],
+      "driveTypeID": [1,2],
+      "colorID": [1, 2, 3, 4, 5],
+      "interiorID": [1, 2],
+      "audioSystemID": [1, 2],
+      "airConditionID": [1, 2, 3],
+      "windowTypeID": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "AUDI",
+      "MotorID":[1,2],
+      "transmissionID": [1,2],
+      "driveTypeID": [1,2],
+      "colorID": [1, 2, 3, 4, 5],
+      "interiorID": [1, 2],
+      "audioSystemID": [1, 2],
+      "airConditionID": [1, 2, 3],
+      "windowTypeID": [1, 2]
+    },
+    {
+      "id": 3,
+      "name": "DODGE",
+      "MotorID":[1, 2],
+      "transmissionID": [1, 2],
+      "driveTypeID": [1, 2, 3],
+      "colorID": [1, 2, 3, 4, 5],
+      "interiorID": [1, 2],
+      "audioSystemID": [1, 2],
+      "airConditionID": [1, 2, 3],
+      "windowTypeID": [1, 2]
+    }
+  ],
+  "motors": [
+    {
+      "id": 0,
+      "name": "..."
+    },
+    {
+      "id": 1,
+      "name": "Diesel"
+    },
+    {
+      "id": 2,
+      "name": "Benzin"
+    }
+  ],
+  "transmission": [
+    {
+      "id": 0,
+      "name": "..."
+    },
+    {
+      "id": 1,
+      "name": "Mecanic"
+    },
+    {
+      "id": 2,
+      "name": "Automat"
+    }
+  ],
+  "driveType": [
+    {
+      "id": 0,
+      "name": "..."
+    },
+    {
+      "id": 1,
+      "name": "Tractiune din fata"
+    },
+    {
+      "id": 2,
+      "name": "Tractiune din spate"
+    },
+    {
+      "id": 3,
+      "name": "4x4"
+    }
+  ],
+  "color": [
+    {
+      "id": 0,
+      "name": "..."
+    },
+    {
+      "id": 1,
+      "name": "Alb"
+    },
+    {
+      "id": 2,
+      "name": "Negru"
+    },
+    {
+      "id": 3,
+      "name": "Albastru"
+    },
+    {
+      "id": 4,
+      "name": "Rosu"
+    },
+    {
+      "id": 5,
+      "name": "Verde"
+    }
+  ],
+  "interior": [
+    {
+      "id": 0,
+      "name": "..."
+    },
+    {
+      "id": 1,
+      "name": "Piele"
+    },
+    {
+      "id": 2,
+      "name": "Material"
+    }
+  ],
+  "audio": [
+    {
+      "id": 0,
+      "name": "..."
+    },
+    {
+      "id": 1,
+      "name": "JBL"
+    },
+    {
+      "id": 2,
+      "name": "SONY"
+    }
+  ],
+  "airCondition": [
+    {
+      "id": 0,
+      "name": "..."
+    },
+    {
+      "id": 1,
+      "name": "Fara"
+    },
+    {
+      "id": 2,
+      "name": "Aer Conditionat"
+    },
+    {
+      "id": 3,
+      "name": "Clima Control"
+    }
+  ],
+  "window": [
+    {
+      "id": 0,
+      "name": "..."
+    },
+    {
+      "id": 1,
+      "name": "Manual"
+    },
+    {
+      "id": 2,
+      "name": "Automat"
+    }
+  ]
+}
